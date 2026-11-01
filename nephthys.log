@@ -1,0 +1,1016 @@
+nohup: ignoring input
+INFO:     Will watch for changes in these directories: ['/root/nephthys-plus']
+/root/nephthys-plus/.venv/lib/python3.13/site-packages/authlib/integrations/httpx_client/assertion_client.py:5: AuthlibDeprecationWarning: The httpx module is deprecated; please use httpx2 instead.
+  from ._compat import httpx2
+INFO:     Uvicorn running on http://0.0.0.0:3000 (Press CTRL+C to quit)
+INFO:     Started reloader process [47924] using StatReload
+/root/nephthys-plus/.venv/lib/python3.13/site-packages/authlib/integrations/httpx_client/assertion_client.py:5: AuthlibDeprecationWarning: The httpx module is deprecated; please use httpx2 instead.
+  from ._compat import httpx2
+INFO:     Started server process [47994]
+INFO:     Waiting for application startup.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "send_daily_stats" to job store "default"
+INFO:apscheduler.scheduler:Added job "refresh_faq_entries" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:root:Loaded 41 FAQ entries from canvas F0C8ELVH27K
+INFO:root:Starting Uvicorn on port 3000
+INFO:     Application startup complete.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     2401:4900:1c30:6eb6:5c60:650b:5a71:1b67:0 - "GET / HTTP/1.1" 307 Temporary Redirect
+INFO:     54.85.23.92:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.235.141.105:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.91.176.99:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.172.57.31:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.66
+INFO:root:event match choice='none' confidence=1.0
+INFO:     98.91.25.103:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     32.192.177.56:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.207.180.178:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.53.78.125:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.200.147.77:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.205.75.27:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.48.45.122:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.53.78.125:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.209.204.192:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     100.59.40.172:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     13.223.1.162:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.71
+INFO:root:event match choice='none' confidence=1.0
+INFO:     98.82.30.235:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.201.50.44:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.210.69.179:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     98.81.127.12:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice="Don't know where to get help? Not what you're looking for?" confidence=0.5
+INFO:root:event match choice='none' confidence=1.0
+INFO:     52.202.114.102:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=3 to helper user_id=1
+INFO:     35.173.183.126:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:     54.209.204.192:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.225.221.19:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479893.785369 by slack_id=U0CAVTL1N3W credit_to=U0A9K5RT3HS
+INFO:     34.204.178.146:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.83.43.15:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.80.215.202:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     34.229.227.39:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.235.46.140:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.229.6.204:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     32.197.14.118:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.67
+INFO:root:event match choice='none' confidence=1.0
+INFO:     44.195.19.59:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Ticket 3 reopened by <@U0CAVTL1N3W> original_ts=1793479893.785369 new_ts=1793479918.758529
+INFO:     18.213.1.199:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.237.80.167:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.209.185.187:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     35.173.183.126:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     35.174.116.40:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.91.176.99:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.204.11.33:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.7
+INFO:root:event match choice='none' confidence=1.0
+INFO:     44.200.147.77:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.53.67.94:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     52.207.216.115:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     35.174.116.40:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.86.2.100:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     13.217.161.160:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     54.158.54.246:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.81.187.115:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     13.223.1.162:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.48
+INFO:root:event match choice='none' confidence=1.0
+INFO:     54.84.20.207:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.235.46.140:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.91.203.158:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.51
+INFO:root:event match choice='none' confidence=1.0
+INFO:     3.81.187.115:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     32.198.62.8:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.208.249.122:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.201.34.15:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.212.31.219:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.196.27.57:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.81.127.12:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.212.235.249:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.93.53.12:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.53.67.94:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     44.222.195.30:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.87.46.181:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.81.127.12:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.236.225.115:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     34.201.50.44:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.229.236.188:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.212.235.249:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.84
+INFO:root:event match choice='none' confidence=1.0
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     32.196.120.191:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.219.47.200:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.86
+INFO:root:event match choice='none' confidence=0.99
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.85
+INFO:root:event match choice='none' confidence=0.99
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.47
+INFO:root:event match choice='none' confidence=1.0
+INFO:root:faq match choice='none' confidence=0.48
+INFO:root:event match choice='none' confidence=1.0
+INFO:     3.210.183.146:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.206.239.207:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.239.250.241:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.49
+INFO:root:event match choice='none' confidence=1.0
+INFO:     3.89.47.63:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.239.219.197:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     32.196.118.101:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.48.45.122:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.71
+INFO:root:event match choice='none' confidence=1.0
+INFO:     32.198.62.8:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=14 to helper user_id=1
+INFO:     98.81.127.12:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.162.177.132:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.207.180.178:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=14 to helper user_id=1
+WARNING:  StatReload detected changes in 'nephthys/transcripts/transcripts/help.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:     Application shutdown complete.
+INFO:     Finished server process [47994]
+/root/nephthys-plus/.venv/lib/python3.13/site-packages/authlib/integrations/httpx_client/assertion_client.py:5: AuthlibDeprecationWarning: The httpx module is deprecated; please use httpx2 instead.
+  from ._compat import httpx2
+INFO:     Started server process [48110]
+INFO:     Waiting for application startup.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "send_daily_stats" to job store "default"
+INFO:apscheduler.scheduler:Added job "refresh_faq_entries" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:root:No FAQ entry matches faq_events_question='Support for Lift Off' and none looks like an event list, headings=['FAQ']
+INFO:root:Loaded 1 FAQ entries from canvas F0CEP0DCRHN
+INFO:root:Starting Uvicorn on port 3000
+INFO:     Application startup complete.
+INFO:     44.222.146.212:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.212.31.219:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.53.67.94:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.222.193.161:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.200.20.44:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.92.47.54:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     3.86.2.100:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.96
+INFO:     3.239.73.237:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     3.229.134.11:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.212.1.208:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.80.215.202:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.81.173.240:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     98.83.148.14:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.205.1.236:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.80.205.83:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.98
+INFO:     3.239.219.197:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.59.40.172:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     184.198.135.25:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.91.176.99:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.94.5.56:0 - "POST /slack/events HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'nephthys/transcripts/transcripts/help.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:     Application shutdown complete.
+INFO:     Finished server process [48110]
+/root/nephthys-plus/.venv/lib/python3.13/site-packages/authlib/integrations/httpx_client/assertion_client.py:5: AuthlibDeprecationWarning: The httpx module is deprecated; please use httpx2 instead.
+  from ._compat import httpx2
+INFO:     Started server process [48206]
+INFO:     Waiting for application startup.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "send_daily_stats" to job store "default"
+INFO:apscheduler.scheduler:Added job "refresh_faq_entries" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:root:No FAQ entry matches faq_events_question='Support for Lift Off' and none looks like an event list, headings=['FAQ']
+INFO:root:Loaded 1 FAQ entries from canvas F0CEP0DCRHN
+INFO:root:Starting Uvicorn on port 3000
+INFO:     Application startup complete.
+INFO:     98.93.50.75:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     184.193.17.58:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.219.47.200:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     35.171.45.9:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.211.157.191:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.82.232.177:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.200.147.77:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     23.22.13.36:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     34.229.227.39:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.98
+INFO:     3.219.170.31:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:User U0CAVTL1N3W attempted to resolve ticket with ts 1793480274.111709 without permission.
+INFO:     3.83.43.15:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.52.202.134:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     23.22.13.36:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.227.185.147:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.211.157.191:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.201.50.44:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     184.198.135.25:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.91.176.99:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     32.200.236.176:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.74
+INFO:     35.173.183.126:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:User U0CAVTL1N3W attempted to resolve ticket with ts 1793480274.111709 without permission.
+INFO:     18.213.1.199:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.201.50.44:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.204.178.146:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.84.220.109:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=18 to helper user_id=1
+INFO:     44.223.68.73:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=18 to helper user_id=1
+INFO:     54.234.219.110:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.219.47.200:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.83.43.15:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:     32.196.120.191:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793480295.030079 by slack_id=U0CAVTL1N3W credit_to=U0A9K5RT3HS
+INFO:     32.196.118.101:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.80.91.164:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.212.189.251:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.53.67.94:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.85.23.92:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Ticket 18 reopened by <@U0CAVTL1N3W> original_ts=1793480295.030079 new_ts=1793480360.708989
+INFO:     100.58.255.84:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:     54.82.232.177:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793480295.030079 by slack_id=U0CAVTL1N3W credit_to=U0A9K5RT3HS
+INFO:     44.210.244.125:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     32.200.236.176:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.195.128.203:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Ticket 18 reopened by <@U0CAVTL1N3W> original_ts=1793480295.030079 new_ts=1793480366.321189
+INFO:     98.93.224.201:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     35.171.45.9:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.227.73.108:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:     3.237.242.190:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793480295.030079 by slack_id=U0CAVTL1N3W credit_to=U0A9K5RT3HS
+INFO:     44.195.128.203:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.227.73.108:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     52.202.114.102:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.202.77.106:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     13.217.161.160:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.208.163.23:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.49.44.167:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.222.146.212:0 - "GET /public/loading.gif HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.DASHBOARD for U0A9K5RT3HS
+INFO:     3.110.232.100:0 - "GET /public/loading.gif HTTP/1.1" 200 OK
+INFO:     32.192.184.95:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.ASSIGNED_TICKETS for U0A9K5RT3HS
+INFO:     54.82.232.177:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:     34.229.236.188:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.CATEGORY_TAGS for U0A9K5RT3HS
+INFO:     3.239.250.241:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.MY_STATS for U0A9K5RT3HS
+INFO:     3.237.242.190:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.MACROS for U0A9K5RT3HS
+INFO:     34.207.191.172:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0A9K5RT3HS view=AppHomeView.MACROS
+INFO:root:Opening AppHomeView.MACROS for U0A9K5RT3HS
+INFO:     35.173.183.126:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0A9K5RT3HS view=AppHomeView.MACROS
+INFO:root:Opening AppHomeView.MACROS for U0A9K5RT3HS
+INFO:     98.92.47.54:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.DASHBOARD for U0A9K5RT3HS
+INFO:     98.91.176.99:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.ASSIGNED_TICKETS for U0A9K5RT3HS
+INFO:     34.235.141.105:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:     100.26.182.116:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.MACROS for U0A9K5RT3HS
+INFO:     32.197.225.233:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0A9K5RT3HS view=AppHomeView.MACROS
+INFO:root:Opening AppHomeView.MACROS for U0A9K5RT3HS
+INFO:     34.235.141.105:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.DASHBOARD for U0A9K5RT3HS
+INFO:     32.192.177.56:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0A9K5RT3HS view=AppHomeView.DASHBOARD
+INFO:root:Opening AppHomeView.DASHBOARD for U0A9K5RT3HS
+INFO:     44.195.19.59:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0A9K5RT3HS view=AppHomeView.DASHBOARD
+INFO:root:Opening AppHomeView.DASHBOARD for U0A9K5RT3HS
+INFO:     98.93.224.201:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     52.207.216.115:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     35.174.116.40:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.213.1.199:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.91.203.158:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.49.44.167:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.219.170.31:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     13.218.105.129:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.85.23.92:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     52.90.179.134:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.157.35.212:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.95.247.122:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.83.43.15:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.237.242.190:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     32.197.14.118:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.94
+INFO:     98.93.35.87:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.54.132.214:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793480709.708159 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     100.58.255.84:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     32.197.225.233:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     13.221.193.92:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.234.67.206:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     54.84.20.207:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.239.250.241:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.92
+INFO:     44.195.19.59:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.232.105.36:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     52.91.11.8:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     3.95.247.122:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.48
+INFO:     3.239.204.19:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.95.247.122:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     35.171.45.9:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.58.255.84:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     13.223.1.162:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     184.193.17.58:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.91.25.103:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.42
+INFO:     100.26.182.116:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=22 to helper user_id=1
+INFO:     44.202.77.106:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     32.192.177.56:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:Resolved ticket ts=1793480746.159569 by slack_id=U0A9K5RT3HS credit_to=U0A9K5RT3HS
+INFO:     3.219.47.200:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     100.58.255.84:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.81.255.251:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     50.17.20.175:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     52.90.179.134:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+WARNING:root:AI help tool read_thread failed: SlackApiError("The request to the Slack API failed. (url: https://slack.com/api/conversations.info, status: 200)\nThe server responded with: {'ok': False, 'error': 'missing_scope', 'needed': 'channels:read,groups:read,mpim:read,im:read', 'provided': 'identify,files:read,search:read,chat:write,bookmarks:read'}")
+INFO:     54.211.157.191:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     13.222.154.28:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.94.5.56:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.94.80.209:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0A9K5RT3HS view=AppHomeView.DASHBOARD
+INFO:root:Opening AppHomeView.DASHBOARD for U0A9K5RT3HS
+INFO:     13.220.66.20:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:     3.225.221.19:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     13.218.105.129:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.84.220.109:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.207.241.71:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.76
+INFO:     32.192.184.95:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.198.77.164:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=23 to helper user_id=1
+INFO:     35.174.116.40:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=23 to helper user_id=1
+INFO:     3.83.127.135:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=23 to helper user_id=1
+INFO:     13.218.105.129:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=23 to helper user_id=1
+INFO:     54.163.199.46:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=23 to helper user_id=1
+INFO:     3.236.208.81:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=23 to helper user_id=1
+INFO:     98.94.80.209:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Assigning ticket ticket_id=23 to helper user_id=1
+INFO:     100.48.45.122:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793480821.411449 by slack_id=U0A9K5RT3HS credit_to=None
+INFO:     44.200.147.77:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.204.11.33:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     32.196.120.191:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     35.174.116.40:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.235.46.140:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.205.75.27:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 21:27:40 GMT)" (scheduled at 2026-10-31 21:12:40.385016+00:00)
+INFO:root:Loaded 1 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 21:27:40 GMT)" executed successfully
+INFO:     54.221.169.251:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.198.16.227:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.235.46.140:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     13.217.161.160:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.48.45.122:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.228.240.211:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Ticket 23 reopened by <@U0CAVTL1N3W> original_ts=1793480821.411449 new_ts=1793481372.773719
+INFO:     32.197.14.118:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.94.5.56:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.94.80.209:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     52.91.11.8:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:Resolved ticket ts=1793480821.411449 by slack_id=U0CAVTL1N3W credit_to=U0CAVTL1N3W
+INFO:     98.93.35.87:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.198.16.227:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.81.127.12:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.236.225.115:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.229.6.204:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.239.250.241:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.87.46.181:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.DASHBOARD for U0CAVTL1N3W
+INFO:root:Opening AppHomeView.DASHBOARD for U0CAVTL1N3W
+INFO:root:Opening AppHomeView.DASHBOARD for U0CAVTL1N3W
+INFO:     44.200.20.44:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0CAVTL1N3W view=AppHomeView.DASHBOARD
+INFO:root:Opening AppHomeView.DASHBOARD for U0CAVTL1N3W
+INFO:     3.229.134.11:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0CAVTL1N3W view=AppHomeView.DASHBOARD
+INFO:root:Opening AppHomeView.DASHBOARD for U0CAVTL1N3W
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 21:42:40 GMT)" (scheduled at 2026-10-31 21:27:40.385016+00:00)
+INFO:root:Loaded 1 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 21:42:40 GMT)" executed successfully
+INFO:     34.236.255.246:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0CAVTL1N3W view=AppHomeView.DASHBOARD
+INFO:     44.206.239.207:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.93.224.201:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0CAVTL1N3W view=AppHomeView.DASHBOARD
+INFO:root:Restoring saved app home view slack_id=U0CAVTL1N3W view=AppHomeView.DASHBOARD
+INFO:     3.239.219.197:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0CAVTL1N3W view=AppHomeView.DASHBOARD
+INFO:root:Opening AppHomeView.DASHBOARD for U0CAVTL1N3W
+INFO:root:Opening AppHomeView.DASHBOARD for U0CAVTL1N3W
+INFO:root:Opening AppHomeView.DASHBOARD for U0CAVTL1N3W
+INFO:root:Opening AppHomeView.DASHBOARD for U0CAVTL1N3W
+INFO:     18.168.153.213:0 - "GET /public/loading.gif HTTP/1.1" 200 OK
+INFO:     35.171.45.9:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.DASHBOARD for U0CAVTL1N3W
+INFO:     98.81.127.12:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.MACROS for U0CAVTL1N3W
+INFO:     100.48.45.122:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.195.128.203:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793480741.502089 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     52.90.179.134:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.58.255.84:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     52.207.216.115:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793480732.102849 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     3.84.174.22:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.212.31.219:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.198.77.164:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.227.73.108:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.209.185.187:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793480160.603079 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     13.222.154.28:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.53.67.94:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.208.163.23:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793480274.111709 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     52.90.179.134:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.93.35.87:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793480093.999629 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     98.82.30.235:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.158.54.246:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.226.250.216:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:     100.59.40.172:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479952.931059 by slack_id=U0CAVTL1N3W credit_to=U0A9K5RT3HS
+INFO:     34.204.178.146:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     35.171.155.21:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:     13.219.246.128:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479893.785369 by slack_id=U0CAVTL1N3W credit_to=U0A9K5RT3HS
+INFO:     98.81.22.48:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.27.34.43:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.236.208.81:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479755.985199 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     3.83.127.135:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.26.182.116:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     13.223.1.162:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479562.122489 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     54.87.46.181:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     23.22.13.36:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     184.198.217.132:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479560.252319 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     100.56.12.57:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.235.46.140:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.239.73.237:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479559.730759 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     98.83.148.14:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.195.19.59:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.90.15.84:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479559.992409 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     34.229.227.39:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.52.202.134:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479559.428719 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     184.198.135.25:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.158.54.246:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.212.1.208:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479555.795429 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     3.83.43.15:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.237.80.167:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.26.182.116:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.211.145.209:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479557.607009 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     100.27.34.43:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.53.67.94:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479559.164199 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     44.201.247.201:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.209.204.192:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.236.126.18:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479558.261189 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     54.209.185.187:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.199.243.190:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     184.193.17.58:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.236.225.115:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479553.869769 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     34.224.166.147:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.91.203.158:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.80.206.251:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793479492.798949 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     54.211.207.184:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.229.227.39:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 21:57:40 GMT)" (scheduled at 2026-10-31 21:42:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 21:57:40 GMT)" executed successfully
+INFO:     3.84.174.22:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.204.11.33:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.198.16.227:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.222.193.161:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     13.222.154.28:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.92.245.181:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.212.235.249:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.92.47.54:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.211.157.191:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.236.208.81:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.87.192.77:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     44.195.19.59:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.210.183.146:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.98
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 22:12:40 GMT)" (scheduled at 2026-10-31 21:57:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 22:12:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 22:27:40 GMT)" (scheduled at 2026-10-31 22:12:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 22:27:40 GMT)" executed successfully
+INFO:     100.58.255.84:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     32.198.62.8:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793483722.881299 by slack_id=U0CAVTL1N3W credit_to=None
+INFO:     54.172.57.31:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 22:42:40 GMT)" (scheduled at 2026-10-31 22:27:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 22:42:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 22:57:40 GMT)" (scheduled at 2026-10-31 22:42:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 22:57:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 23:12:40 GMT)" (scheduled at 2026-10-31 22:57:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 23:12:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 23:27:40 GMT)" (scheduled at 2026-10-31 23:12:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 23:27:40 GMT)" executed successfully
+INFO:     98.94.80.209:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 23:42:40 GMT)" (scheduled at 2026-10-31 23:27:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 23:42:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 23:57:40 GMT)" (scheduled at 2026-10-31 23:42:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-10-31 23:57:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 00:12:40 GMT)" (scheduled at 2026-10-31 23:57:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 00:12:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "send_daily_stats (trigger: cron[hour='0', minute='0'], next run at: 2026-11-02 00:00:00 GMT)" (scheduled at 2026-11-01 00:00:00+00:00)
+INFO:root:Generating daily stats for the period: 2026-10-31 00:00:00+00:00 to 2026-11-01 00:00:00+00:00
+INFO:root:Daily stats message sent successfully.
+INFO:apscheduler.executors.default:Job "send_daily_stats (trigger: cron[hour='0', minute='0'], next run at: 2026-11-02 00:00:00 GMT)" executed successfully
+INFO:     34.228.240.211:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.85.23.92:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 00:27:40 GMT)" (scheduled at 2026-11-01 00:12:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 00:27:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 00:42:40 GMT)" (scheduled at 2026-11-01 00:27:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 00:42:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 00:57:40 GMT)" (scheduled at 2026-11-01 00:42:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 00:57:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 01:12:40 GMT)" (scheduled at 2026-11-01 00:57:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 01:12:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 01:27:40 GMT)" (scheduled at 2026-11-01 01:12:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 01:27:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 01:42:40 GMT)" (scheduled at 2026-11-01 01:27:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 01:42:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 01:57:40 GMT)" (scheduled at 2026-11-01 01:42:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 01:57:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 02:12:40 GMT)" (scheduled at 2026-11-01 01:57:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 02:12:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 02:27:40 GMT)" (scheduled at 2026-11-01 02:12:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 02:27:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 02:42:40 GMT)" (scheduled at 2026-11-01 02:27:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 02:42:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 02:57:40 GMT)" (scheduled at 2026-11-01 02:42:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 02:57:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 03:12:40 GMT)" (scheduled at 2026-11-01 02:57:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 03:12:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 03:27:40 GMT)" (scheduled at 2026-11-01 03:12:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 03:27:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 03:42:40 GMT)" (scheduled at 2026-11-01 03:27:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 03:42:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 03:57:40 GMT)" (scheduled at 2026-11-01 03:42:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 03:57:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 04:12:40 GMT)" (scheduled at 2026-11-01 03:57:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 04:12:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 04:27:40 GMT)" (scheduled at 2026-11-01 04:12:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 04:27:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 04:42:40 GMT)" (scheduled at 2026-11-01 04:27:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 04:42:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 04:57:40 GMT)" (scheduled at 2026-11-01 04:42:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 04:57:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 05:12:40 GMT)" (scheduled at 2026-11-01 04:57:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 05:12:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 05:27:40 GMT)" (scheduled at 2026-11-01 05:12:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 05:27:40 GMT)" executed successfully
+INFO:     10.60.1.2:55132 - "GET / HTTP/1.1" 307 Temporary Redirect
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 05:42:40 GMT)" (scheduled at 2026-11-01 05:27:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 05:42:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 05:57:40 GMT)" (scheduled at 2026-11-01 05:42:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 05:57:40 GMT)" executed successfully
+INFO:     3.237.41.170:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     3.237.41.170:0 - "GET / HTTP/1.1" 307 Temporary Redirect
+INFO:     223.190.85.128:0 - "GET / HTTP/1.1" 307 Temporary Redirect
+INFO:     223.190.85.128:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     223.190.85.128:0 - "GET /slack/events HTTP/1.1" 405 Method Not Allowed
+INFO:     3.238.24.33:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.163.199.46:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.198.77.164:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.219.47.200:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.80.206.251:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=1.0
+INFO:     44.200.20.44:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     100.59.40.172:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.83.148.14:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793512355.362829 by slack_id=U0A9K5RT3HS credit_to=None
+INFO:     44.223.99.225:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     184.193.17.58:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.200.20.44:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0A9K5RT3HS view=AppHomeView.TEAM_TAGS
+INFO:     44.210.69.179:0 - "GET /public/loading.gif HTTP/1.1" 304 Not Modified
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:     13.203.66.238:0 - "GET /public/loading.gif HTTP/1.1" 200 OK
+INFO:     44.199.243.190:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.DASHBOARD for U0A9K5RT3HS
+INFO:     32.200.99.178:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.ASSIGNED_TICKETS for U0A9K5RT3HS
+INFO:     98.93.253.20:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:     44.210.244.125:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.CATEGORY_TAGS for U0A9K5RT3HS
+INFO:     34.204.178.146:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.202.77.106:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.91.176.99:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.CATEGORY_TAGS for U0A9K5RT3HS
+INFO:     3.238.24.33:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.201.34.15:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.CATEGORY_TAGS for U0A9K5RT3HS
+INFO:     100.53.67.94:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.158.54.246:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.CATEGORY_TAGS for U0A9K5RT3HS
+INFO:     13.220.66.20:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.236.208.81:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.CATEGORY_TAGS for U0A9K5RT3HS
+INFO:     13.221.193.92:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.81.127.12:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.CATEGORY_TAGS for U0A9K5RT3HS
+INFO:     184.193.17.58:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 06:12:40 GMT)" (scheduled at 2026-11-01 05:57:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 06:12:40 GMT)" executed successfully
+INFO:     3.238.24.33:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     100.26.182.116:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:root:Tag Firmware Review with id 1 found in the database
+INFO:root:Tag Firmware Review has 0 subscriptions
+INFO:     54.221.169.251:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.224.166.147:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:root:Tag Firmware Review with id 1 found in the database
+INFO:root:Tag Firmware Review has 0 subscriptions
+INFO:root:Tag CAD Review with id 2 found in the database
+INFO:root:Tag CAD Review has 0 subscriptions
+INFO:     54.158.54.246:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.ASSIGNED_TICKETS for U0A9K5RT3HS
+INFO:     44.199.243.190:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:root:Tag Firmware Review with id 1 found in the database
+INFO:root:Tag Firmware Review has 0 subscriptions
+INFO:root:Tag CAD Review with id 2 found in the database
+INFO:root:Tag CAD Review has 0 subscriptions
+INFO:     98.94.80.209:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:root:Tag Firmware Review with id 1 found in the database
+INFO:root:Tag Firmware Review has 0 subscriptions
+INFO:root:Tag CAD Review with id 2 found in the database
+INFO:root:Tag CAD Review has 1 subscriptions
+INFO:     54.235.46.140:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.93.50.75:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:root:Tag Firmware Review with id 1 found in the database
+INFO:root:Tag Firmware Review has 0 subscriptions
+INFO:root:Tag CAD Review with id 2 found in the database
+INFO:root:Tag CAD Review has 1 subscriptions
+INFO:root:Tag PCB Review with id 3 found in the database
+INFO:root:Tag PCB Review has 0 subscriptions
+INFO:     54.196.27.57:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:root:Tag Firmware Review with id 1 found in the database
+INFO:root:Tag Firmware Review has 0 subscriptions
+INFO:root:Tag CAD Review with id 2 found in the database
+INFO:root:Tag CAD Review has 1 subscriptions
+INFO:root:Tag PCB Review with id 3 found in the database
+INFO:root:Tag PCB Review has 1 subscriptions
+INFO:     98.93.224.201:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.84.174.22:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:root:Tag Firmware Review with id 1 found in the database
+INFO:root:Tag Firmware Review has 0 subscriptions
+INFO:root:Tag CAD Review with id 2 found in the database
+INFO:root:Tag CAD Review has 1 subscriptions
+INFO:root:Tag PCB Review with id 3 found in the database
+INFO:root:Tag PCB Review has 1 subscriptions
+INFO:root:Tag General Helpers with id 4 found in the database
+INFO:root:Tag General Helpers has 0 subscriptions
+INFO:     54.162.177.132:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:root:Tag Firmware Review with id 1 found in the database
+INFO:root:Tag Firmware Review has 0 subscriptions
+INFO:root:Tag CAD Review with id 2 found in the database
+INFO:root:Tag CAD Review has 1 subscriptions
+INFO:root:Tag PCB Review with id 3 found in the database
+INFO:root:Tag PCB Review has 1 subscriptions
+INFO:root:Tag General Helpers with id 4 found in the database
+INFO:root:Tag General Helpers has 1 subscriptions
+INFO:     3.80.91.164:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.227.73.108:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.235.141.105:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.223.68.73:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     98.91.176.99:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:Successfully generated category tag category=pcb confidence=1.0 tokens=371
+INFO:     54.84.20.207:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.79
+INFO:     34.228.240.211:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:[{'name': 'PCB Review', 'value': 3}]
+INFO:root:New: [{'name': 'PCB Review', 'value': 3}], Old: []
+ERROR:slack_bolt.AsyncApp:Failed to run listener function (error: The `values` list argument must contain at least one value.)
+Traceback (most recent call last):
+  File "/root/nephthys-plus/.venv/lib/python3.13/site-packages/slack_bolt/listener/asyncio_runner.py", line 118, in run_ack_function_asynchronously
+    await listener.run_ack_function(request=request, response=response)
+  File "/root/nephthys-plus/.venv/lib/python3.13/site-packages/slack_bolt/listener/async_listener.py", line 117, in run_ack_function
+    return await self.ack_function(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/root/nephthys-plus/nephthys/utils/slack.py", line 213, in assign_team_tag
+    await assign_team_tag_callback(ack, body, client)
+  File "/root/nephthys-plus/nephthys/actions/assign_team_tag.py", line 70, in assign_team_tag_callback
+    db_users = await User.objects().where(User.id.is_in(sub_user_ids))
+                                          ~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/root/nephthys-plus/.venv/lib/python3.13/site-packages/piccolo/columns/base.py", line 614, in is_in
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: The `values` list argument must contain at least one value.
+INFO:     44.195.128.203:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.93.50.75:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.93.35.87:0 - "POST /slack/events HTTP/1.1" 200 OK
+WARNING:slack_bolt.AsyncApp:assign_team_tag didn't call ack()
+WARNING:slack_bolt.AsyncApp:Unhandled request ({'type': 'block_actions', 'block_id': '8Lcew', 'action_id': 'team-tag-list'})
+---
+[Suggestion] You can handle this type of event with the following listener function:
+
+@app.action("team-tag-list")
+async def handle_some_action(ack, body, logger):
+    await ack()
+    logger.info(body)
+
+INFO:     23.22.13.36:0 - "POST /slack/events HTTP/1.1" 404 Not Found
+INFO:     44.204.11.33:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.86.2.100:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.210.69.179:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     3.236.253.2:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.81.173.240:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:Successfully generated category tag category=build confidence=0.27 tokens=367
+INFO:     44.200.20.44:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=1.0
+INFO:     3.225.221.19:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     32.200.236.176:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Resolved ticket ts=1793513266.493289 by slack_id=U08NCJ3RWLQ credit_to=None
+INFO:     35.171.155.21:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     52.207.216.115:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 06:27:40 GMT)" (scheduled at 2026-11-01 06:12:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 06:27:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 06:42:40 GMT)" (scheduled at 2026-11-01 06:27:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 06:42:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 06:57:40 GMT)" (scheduled at 2026-11-01 06:42:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 06:57:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 07:12:40 GMT)" (scheduled at 2026-11-01 06:57:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 07:12:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 07:27:40 GMT)" (scheduled at 2026-11-01 07:12:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 07:27:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 07:42:40 GMT)" (scheduled at 2026-11-01 07:27:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 07:42:40 GMT)" executed successfully
+INFO:apscheduler.executors.default:Running job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 07:57:40 GMT)" (scheduled at 2026-11-01 07:42:40.385016+00:00)
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:apscheduler.executors.default:Job "refresh_faq_entries (trigger: interval[0:15:00], next run at: 2026-11-01 07:57:40 GMT)" executed successfully
+WARNING:  StatReload detected changes in 'nephthys/transcripts/transcripts/help.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:     Application shutdown complete.
+INFO:     Finished server process [48206]
+/root/nephthys-plus/.venv/lib/python3.13/site-packages/authlib/integrations/httpx_client/assertion_client.py:5: AuthlibDeprecationWarning: The httpx module is deprecated; please use httpx2 instead.
+  from ._compat import httpx2
+INFO:     Started server process [50780]
+INFO:     Waiting for application startup.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "send_daily_stats" to job store "default"
+INFO:apscheduler.scheduler:Added job "refresh_faq_entries" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:root:Starting Uvicorn on port 3000
+INFO:     Application startup complete.
+INFO:     3.239.219.197:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.206.239.207:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     98.91.176.99:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.211.157.191:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     44.211.23.162:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:Successfully generated category tag category=build confidence=0.37 tokens=366
+INFO:     100.49.44.167:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     34.228.240.211:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://ai.hackclub.com/proxy/v1/jev/systemone "HTTP/1.1 200 OK"
+INFO:root:faq match choice='none' confidence=0.98
+INFO:     44.222.102.127:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     18.213.1.199:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.234.219.110:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:     54.81.173.240:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0A9K5RT3HS view=AppHomeView.TEAM_TAGS
+INFO:root:Opening AppHomeView.TEAM_TAGS for U0A9K5RT3HS
+INFO:root:Tag Firmware Review with id 1 found in the database
+INFO:root:Tag Firmware Review has 0 subscriptions
+INFO:root:Tag CAD Review with id 2 found in the database
+INFO:root:Tag CAD Review has 1 subscriptions
+INFO:root:Tag PCB Review with id 3 found in the database
+INFO:root:Tag PCB Review has 1 subscriptions
+INFO:root:Tag General Helpers with id 4 found in the database
+INFO:root:Tag General Helpers has 1 subscriptions
+INFO:     54.84.20.207:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.ASSIGNED_TICKETS for U0A9K5RT3HS
+INFO:     98.83.148.14:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.DASHBOARD for U0A9K5RT3HS
+INFO:     52.91.11.8:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Opening AppHomeView.MACROS for U0A9K5RT3HS
+INFO:     3.236.225.115:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0A9K5RT3HS view=AppHomeView.MACROS
+INFO:root:Opening AppHomeView.MACROS for U0A9K5RT3HS
+INFO:     54.85.23.92:0 - "POST /slack/events HTTP/1.1" 200 OK
+INFO:root:Restoring saved app home view slack_id=U0A9K5RT3HS view=AppHomeView.MACROS
+INFO:root:Opening AppHomeView.MACROS for U0A9K5RT3HS
+WARNING:  StatReload detected changes in 'nephthys/transcripts/transcripts/help.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:apscheduler.scheduler:Scheduler has been shut down
+INFO:     Application shutdown complete.
+INFO:     Finished server process [50780]
+/root/nephthys-plus/.venv/lib/python3.13/site-packages/authlib/integrations/httpx_client/assertion_client.py:5: AuthlibDeprecationWarning: The httpx module is deprecated; please use httpx2 instead.
+  from ._compat import httpx2
+INFO:     Started server process [51257]
+INFO:     Waiting for application startup.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "send_daily_stats" to job store "default"
+INFO:apscheduler.scheduler:Added job "refresh_faq_entries" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:root:Loaded 2 FAQ entries from canvas F0CEP0DCRHN
+INFO:root:Starting Uvicorn on port 3000
+INFO:     Application startup complete.
+INFO:     3.210.183.146:0 - "POST /slack/events HTTP/1.1" 200 OK
